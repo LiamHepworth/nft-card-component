@@ -3,8 +3,6 @@ import timer from '../images/icon-clock.svg'
 
 const Card = ({data}) => {
 
-    console.log(data)
-
     return ( 
 
         data.map(data => (
@@ -37,5 +35,3 @@ const Card = ({data}) => {
 }
  
 export default Card;
-
-// cardImage, cardName, cardDesc, cardPrice, cardTimeRemaining, cardAuthorImage, cardAuthorName

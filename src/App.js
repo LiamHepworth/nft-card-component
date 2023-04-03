@@ -30,7 +30,7 @@ const data = [
   {
     cardImage: imageTwo, 
     cardName: "Rotations #162", 
-    cardDesc: "Exploring particulate new and unique representations of 3D worldspaces.", 
+    cardDesc: "Exploring new and unique representations of 3D worldspaces.", 
     cardPrice: "0.455ETH",
     cardTimeRemaining: "42 hours left",
     cardAuthorImage: authorImage,
@@ -40,7 +40,7 @@ const data = [
   {
     cardImage: imageThree, 
     cardName: "Flow #83", 
-    cardDesc: "Otherworldly materials collide in this reinterpretation of urban landscapes", 
+    cardDesc: "Otherworldly materials collide in this reinterpretation of urban landscapes.", 
     cardPrice: "0.008ETH",
     cardTimeRemaining: "6 hours left",
     cardAuthorImage: authorImage,
